@@ -43,6 +43,8 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
+		new Divide();
+		new Multiply();
 		new Power();
 		new Divide();
 		new Multiply();
